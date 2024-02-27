@@ -1,0 +1,690 @@
+#headerHome { 
+background-color: #3C4C70;
+height: 600px;
+text-align: left; 
+padding: 70px 50px;
+font-size: 50px;
+color:#3C4C70;
+font-family: Lucida Handwriting,Cursive,Helvetica,Sans-serif;
+background-image: url("image/HomeMade.jpeg"); 
+background-size: 1500px 800px;
+background-repeat: no-repeat;
+}
+
+#game-header{
+background-color: #3C4C70;
+margin:50px 20px 0px 20px;
+height: 450px;
+text-align: left; 
+padding-left: 30px;
+padding-right: 30px;
+font-size: 40px;
+font-family: Lucida Handwriting,Cursive,Helvetica,Sans-serif;
+border:20px solid #9168a0;
+}
+
+#Decortion-header{
+background-color: #3C4C70;
+margin:50px 20px 0px 20px;
+height: 450px;
+text-align: left; 
+padding-top: 50px;
+padding-left: 30px;
+padding-right: 30px;
+font-size: 40px;
+font-family: Lucida Handwriting,Cursive,Helvetica,Sans-serif;
+border:20px solid #9168a0;
+}
+
+.wrapper {
+max-width: 1200px; /* Adjust the max-width as needed */
+margin: 0 auto; /* Center the wrapper horizontally */
+box-sizing: border-box; /* Include padding and border in the total width and height */
+}
+
+#header { 
+background-color: #3C4C70;
+margin:50px 20px 0px 20px;
+height: 450px;
+text-align: left; 
+padding-left: 30px;
+padding-right: 30px;
+font-size: 40px;
+font-family: Lucida Handwriting,Cursive,Helvetica,Sans-serif;
+border:20px solid #9168a0;
+}
+
+body { 
+background-image:url(image/background.jpg);
+font-family: Monaco, Monospace;
+color:#D87F98 ;  
+text-align: center; 
+}
+
+footer {  
+background-color: #3C4C70;
+font-size: .60em;
+font-style:italic;
+text-align: center;
+padding-bottom: 10px;
+}
+
+main{
+background-color: #dca1b0;
+color:#3C4C70 ;
+padding:16px 16px 16px 16px;
+margin:50px 20px 20px 20px;
+}
+
+
+#interface{
+background-color:#3C4C70;
+color: #9168A0;
+}
+
+
+.navbar {
+
+overflow: hidden;
+background-color:#3C4C70  ; /* color of the box  #EDEEF1  #3C4C70 #333  */ 
+display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+justify-content: center;
+align-items: center;
+align-content: center;
+}
+
+.navbar a {
+float: left;
+font-size: 16px;
+color: #EDEEF1; /* white text coloer  */ 
+text-align: center;
+padding: 25px 35px;
+text-decoration: none;
+}
+
+.dropdown {
+float: left;
+overflow: hidden;
+}
+
+.dropdown .dropbtn {
+font-size: 16px;  
+border: none;
+outline: none;
+color: #EDEEF1; /* text coloer */ 
+padding: 25px 35px;
+background-color:  #3C4C70 ;  /*  #3C4C70 background color box  */ 
+font-family: inherit;
+margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+background-color: #DCA1B0; /* color of the text ......*/ 
+}
+
+.dropdown-content {
+display: none;
+position: absolute;
+background-color: #f9f9f9; /* the background color of the content in side the drop down  */ 
+min-width: 160px;
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+z-index: 1;
+}
+
+.dropdown-content a {
+float: none;
+color: #3C4C70;  /* text color inside */ 
+padding: 12px 16px;
+text-decoration: none;
+display: block;
+text-align: left;
+}
+
+.dropdown-content a:hover {
+background-color: #ddd;   /* Color in side the drop down content */
+}
+
+.dropdown:hover .dropdown-content {
+display: block;
+}
+
+/* --------- Jana ----------*/
+
+#scund{
+background-color:#9168a0 ;
+padding:15px 70px 20px 30px;
+margin:0px 20px 0px 20px;
+height:800px;
+color:#3C4C70;
+font-size: 25px;
+}
+
+
+#background2{
+background-color:#dca1b0;
+padding:15px 15px 20px 30px;
+margin:0px 20px 0px 20px;
+height:800px;
+color:#3C4C70;
+font-size: 25px;
+}
+
+#scund2{
+background-color:#9168a0 ;
+padding:15px 70px 5px 30px;
+margin:0px 20px 20px 20px;
+height:370px;
+color:#3C4C70;
+font-size: 25px;
+}
+
+#janap{
+padding: 30px;
+color: #9168a0;
+font-size: 20px;
+text-align: left;
+/*padding:0px 16px 0px 16px;*/
+}
+
+#janah1{
+padding: 8px;
+color: #dca1b0;
+font-size: 25px;
+text-align:left;
+/*padding:0px 16px 0px 16px;*/
+}
+
+#janah2{
+padding: 8px;
+color:  #EDEEF1;
+font-size: 20px;
+text-align: left;
+/*padding:0px 16px 0px 16px;*/
+}
+
+#janah1pink{
+padding: 8px;
+color: #9168a0;
+font-size: 25px;
+text-align:left;
+/*padding:0px 16px 0px 16px;*/
+}
+
+#h1background{ 
+background-color:#9168a0 ;
+color:#3C4C70; 
+padding:15px 15px 20px 30px;
+margin:20px 20px 20px 20px;}
+
+#Square1{
+background-color:#9168a0 ;
+color:#3C4C70; 
+padding:15px 15px 20px 30px;
+margin:0px 20px 20px 20px;
+height: 400px;
+width: 530px;
+float: right;
+}
+
+#Square2{
+background-color:#EDEEF1;
+color:#3C4C70; 
+padding:10px 15px 20px 30px;
+margin:0px 20px 20px 20px;
+height: 400px;
+width: 530px;
+/*float: right;*/
+}
+
+#forSquares{
+/*width: 2%;*/
+height:900px;
+}
+
+
+
+
+
+/* --------- JOOD ----------*/
+
+h5{
+font-family: Monaco;
+color:#D87F98;
+font-size: 0.8em;
+padding-left: 10px;
+padding-bottom: 5px;
+}
+
+#h1backgroundDecor{ 
+background-color:#dca1b0 ;
+color:#3C4C70; 
+padding:15px 15px 20px 30px;
+margin:0px 20px 20px 20px;}
+
+.content-container {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: flex-start;
+gap: 10px;
+}
+
+.video-container {
+flex: 1;
+margin-top: 10px;
+margin-right: 20px;
+position: relative;
+padding-bottom:35%;
+height: 0;
+overflow: hidden;
+}
+
+.video-container iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 78%;
+}
+
+.game-info {
+color: #3C4C70;
+flex: 1;
+max-width: 600px;
+text-align: center;
+}
+
+.game-info h3 {
+margin-top: 60px;
+font-size: 42px;
+}
+
+.description {
+text-align: center;
+margin-top: 50px;
+}
+
+#Second-game-section {
+background-color:#DCA1B0 ;
+padding:50px 16px 0px 16px;
+margin:50px 20px 20px 20px;
+height:500px;
+display: flex;
+justify-content: space-between;
+
+}
+
+.image-column {
+flex: 1;
+display: flex;
+flex-direction: column;
+gap: 9px;
+margin-right: 5px;
+}
+
+.image-column img {
+width: 100%;
+max-width: 200px; /* Adjust as needed */
+height: auto;
+}
+
+.game-details {
+color: #3C4C70;
+font-size: 0.9em;
+flex: 1;
+max-width: 600px;
+text-align: center;
+margin-top: 20px;
+}
+
+.game-details h3 {
+font-size: 1.8em;
+margin-top: 95px;
+margin-right: 30px;
+}
+
+.supplies-list {
+color: #3C4C70;
+text-align: left;
+margin-top: 0px;
+margin-bottom: 5px;
+}
+
+#decorMain{
+background-color:#dca1b0 ;
+color:#3C4C70 ;
+padding:16px 16px 16px 16px;
+margin:40px 20px 20px 20px;
+height:600px;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+
+#dec-sec1{
+padding:15px 16px 15px 20px;
+margin:15px 20px 20px 20px;
+height:500px;
+display: flex;
+justify-content: space-between;
+}
+
+.image-container{
+color: #3C4C70;
+font-size: 1.3em;
+text-align: center;
+width: 30%; /* Adjust the width as needed */
+margin-top: 20px;
+box-sizing: border-box;
+flex: 1;
+margin: 0 15px ;
+border: 1px solid #ccc;
+}
+
+#decor-scnd{
+background-color:#EDEEF1;
+color:#3C4C70 ;
+padding:20px 20px 20px 20px;
+margin:50px 20px 20px 20px;
+height:800px;
+}
+
+#decor-thrd{
+background-color:#9168a0;
+padding: 30px;
+margin:50px 20px 20px 20px;
+color: #EDEEF1;
+font-size: 20px;
+text-align: left;
+}
+
+#leaf{
+float: left;
+margin: 5px 40px 0 0 ;
+}
+
+.image-container-decor{
+color: #3C4C70;
+font-size: 1.3em;
+text-align: center;
+width: 30%; /* Adjust the width as needed */
+margin-top: 20px;
+box-sizing: border-box;
+flex: 1;
+margin: 0 25px;
+}
+
+#gameLastDiv{
+background-color:#dca1b0 ;
+color:#3C4C70 ;
+padding:16px 16px 16px 16px;
+margin:40px 20px 20px 20px;
+height:480px;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+
+.image-container-game{
+color: #3C4C70;
+font-size: 1.3em;
+text-align: center;
+width: 30%; /* Adjust the width as needed */
+box-sizing: border-box;
+flex: 1;
+margin: 10px 15px 20px;
+border: 1px solid #ccc;
+}
+
+
+/* --------- Afnan ----------*/
+
+#a1bg{
+
+background-color:#EDEEF1;
+padding:15px 15px 20px 30px;
+margin:0px 20px 0px 20px;
+color:#3C4C70;
+font-size: 25px;
+
+}
+
+#a2bg{
+
+background-color:#dca1b0;
+padding:15px 15px 20px 30px;
+margin:0px 20px 0px 20px;
+height:700px;
+color:#3C4C70;
+font-size: 25px;
+
+
+}     
+
+#container {
+background-color:#9168a0;
+margin:0px 20px 20px 20px;
+
+}
+
+#texta0 {
+font-weight: bold;
+padding: 10px;
+font-size: 1.5em;
+color:#3C4C70; 
+background-color:#EDEEF1;
+margin:0px 20px 20px 20px;
+}
+
+#texta4 {
+font-weight: bold;
+
+padding: 30px;
+color: #9168a0;
+font-size: 25px;
+text-align: left;  
+
+}
+
+#atcolor0{
+
+color:  #EDEEF1;
+}
+
+
+#atcolor1{
+
+color:  #D87F98;;
+}
+
+
+#texta2 {
+font-weight: bold;
+padding: 10px;
+font-size: 1.3em;
+}
+
+#texta2 a {
+color:#3C4C70;
+font-weight: bold;
+font-size: 1.4em; 
+}
+
+#texta2p {
+color:#D87F98; 
+font-size: 1em;
+padding:0px 16px 0px 16px;
+text-align: center; 
+}
+
+#texta2 div {
+text-align: left; 
+}
+
+#texta2 ul,ol {
+list-style-type: none; 
+padding: 0; 
+margin: 0; 
+}
+
+#texta2 li {
+margin-bottom: 8px; 
+}
+
+
+/* --------- Jawaher ----------*/
+
+#first-section{
+  background-size: 500px 700px;
+  background-position:right ;
+  background-color:#DCA1B0 ;
+  padding:0px 16px 0px 16px;
+  margin:0px 20px 20px 20px;
+  height:500px;
+  color: #3C4C70;
+  text-align: left;
+}
+
+#scund-section{
+  font-size: 25px;
+  background-color:#9168a0 ;
+  padding:0px 16px 0px 16px;
+  margin:0px 20px 20px 20px;
+  color: #DCA1B0;
+  height:800px;
+}
+
+#third-section{
+  background-color:#EDEEF1 ;
+  padding:0px 16px 0px 16px;
+  margin:0px 20px 20px 20px;
+  height:1000px;
+}
+
+input,select{
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #3C4C70;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+textarea {
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #3C4C70;
+  border-radius: 4px;
+  box-sizing: border-box ;
+  resize: none;
+}
+
+fieldset{
+  border: 5px solid #9168A0;
+}
+legend{
+  color: #E2DDCF;
+}
+
+footer a {
+text-decoration: none;
+}
+
+#divh2{
+  font-size: 30px;
+  color:#9168A0 ; 
+}
+#strong{
+  font-size: 20px;
+  color: #9168A0;
+}
+
+#Jmin{
+  background-color:#E2DDCF ; /* #dca1b0 , E2DDCF*/
+  padding:0px 16px 16px 16px;
+  margin:50px 20px 20px 20px;
+  color:#D87F98;
+  text-decoration: none;
+}
+
+main a{
+  text-decoration: none;
+  color:#3C4C70;
+
+}
+
+.h5{
+  text-align: left; 
+  color:#3C4C70;
+  font-family: Lucida Handwriting,Cursive,Helvetica,Sans-serif;
+}
+
+/*-------------------- huda --------------------------*/
+#wrapperhuda { 
+  width: 95%;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #EDEEF1;
+}
+
+#bodyhuda {
+  background-color: #EDEEF1;
+  text-align: center; 
+}
+
+#headerhuda {
+  background-color: #EDEEF1;
+  text-align: center;
+  font-family: Gabriola, Lucida Handwriting, Lovelo, Forte;
+}
+
+#mainhuda {
+  background-color:#EDEEF1 ;
+}
+
+#origamimain {
+  background-color:#8C9CAF ;
+}
+
+#origamilayre1 {
+  background-color: #EDEEF1; /*8C9CAF A99F9F 9168A0*/
+  padding:16px 16px 16px 16px;
+}
+
+#origamilayre2 {
+  background-color: #DCA1B0;
+  padding:30px 100px 30px 100px;
+}
+
+#paragraphorigami {
+  font-size: .90xp;
+}
+
+#origamilayre3 {
+  background-color: #9168A0;
+  padding:16px 16px 16px 16px;
+}
+
+#origamilayre4 {
+  background-color: #EDEEF1;
+  padding:16px 16px 16px 16px;
+}
+
+#footerhuda {  
+  background-color: #3C4C70;
+  font-size: .70em;
+  font-style:italic;
+  text-align: center;
+  padding-bottom: 10px;
+  color: #EDEEF1;
+}
+
+a {
+  color: #EDEEF1;
+}
+
+/*///////////////////////////////////////////*/
